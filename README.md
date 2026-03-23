@@ -1,2 +1,96 @@
-# tarot-website-
-This project is a lightweight, fully client-side Tarot reading web application built with React and TypeScript. It allows users to ask a question, draw three cards (representing past, present, and future), and receive an interpretation based on the results.
+# Tarot Web App
+
+## 🌐 项目简介 | Project Overview
+
+一个基于 React + TypeScript 构建的轻量级塔罗牌占卜网站。用户可以输入问题，抽取三张牌（过去 / 现在 / 未来），并获得对应的解读。
+
+A lightweight Tarot reading web application built with React and TypeScript. Users can input a question, draw three cards (past, present, future), and receive an interpretation.
+
+---
+
+## ✨ 功能特点 | Features
+
+* 三张牌占卜（过去 / 现在 / 未来）
+
+* 正位 / 逆位随机生成
+
+* 基于关键词匹配的解读系统
+
+* 响应式设计（支持桌面端和移动端）
+
+* 完全本地运行，无需 API
+
+* Three-card spread (past / present / future)
+
+* Random upright and reversed cards
+
+* Keyword-based interpretation system
+
+* Responsive design (desktop & mobile)
+
+* Fully client-side, no API required
+
+---
+
+## 🛠 技术栈 | Tech Stack
+
+* React
+* TypeScript
+* CSS
+
+---
+
+## ⚙️ 使用方法 | Getting Started
+
+### 安装依赖 | Install dependencies
+
+```bash
+npm install
+```
+
+### 启动项目 | Run the project
+
+```bash
+npm run dev
+```
+
+然后在浏览器打开：
+
+```
+http://localhost:5173
+```
+
+Then open in your browser:
+
+```
+http://localhost:5173
+```
+
+---
+
+## 💡 项目特点 | Design Philosophy
+
+本项目使用本地规则和关键词匹配生成牌意，避免依赖外部 API，使项目免费、快速且可完全控制。
+
+This project uses local rules and keyword matching to generate interpretations, avoiding external APIs for better performance, zero cost, and full control.
+
+---
+
+## 🚀 后续优化 | Future Improvements
+
+* 更智能的解读逻辑
+
+* 多种牌阵支持
+
+* 动画和交互优化
+
+* 可选接入 LLM API
+
+* More advanced interpretation logic
+
+* Multiple Tarot spreads
+
+* UI/UX animations
+
+* Optional LLM API integration
+
