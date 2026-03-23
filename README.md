@@ -94,3 +94,9 @@ This project uses local rules and keyword matching to generate interpretations, 
 
 * Optional LLM API integration
 
+
+<img width="2378" height="1464" alt="image" src="https://github.com/user-attachments/assets/994b98d8-d270-4862-9efc-20257a1a9bc2" />
+<img width="1860" height="1343" alt="image" src="https://github.com/user-attachments/assets/f153d339-1b87-4eb2-bb1d-0b4dc1062020" />
+<img width="2263" height="1497" alt="image" src="https://github.com/user-attachments/assets/353fc3a4-cd4c-43b5-a57d-8ae6f559c24d" />
+<img width="635" height="1358" alt="image" src="https://github.com/user-attachments/assets/06b4f661-002a-4c6e-991b-1e82bab78470" />
+
